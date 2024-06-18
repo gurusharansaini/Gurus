@@ -1,4 +1,7 @@
 
 this is for remote.
+<<<<<<< HEAD
 this is from remote
 this is from loocal
+
+this change from remote1.
